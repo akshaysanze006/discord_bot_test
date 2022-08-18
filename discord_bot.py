@@ -1,6 +1,6 @@
 import discord
 import random
-TOKEN = 'MTAwOTQ3Mzc4ODg4ODQ5NDA5MA.GPkcKs.MPRJ8HNFMwKfJf_XRsqm4nFhWuP6qgvB9-cHRM'
+TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 client =discord.Client()
 @client.event
 async def on_ready():
